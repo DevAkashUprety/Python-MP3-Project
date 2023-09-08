@@ -1,7 +1,7 @@
 """
 Created on Mon May  8 10:26:24 2023
 
-@author: ASUS
+@author: Akash-Uprety
 """
 
 from tkinter import *
